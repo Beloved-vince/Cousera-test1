@@ -1,0 +1,25 @@
+.body{
+    background-image:radial-gradient(white, blue);
+}
+.cointainer{
+    width: 380px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: rgb(217, 218, 219);
+    box-shadow: inset;
+    
+}
+.p{
+    width: 10px;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: right;
+}
+.text{
+    margin: auto;
+    padding: 10%;
+}
+.form1{
+    margin: 10%;
+    padding-left: 5%;
+}
