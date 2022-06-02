@@ -1,0 +1,111 @@
+*{
+    padding: 2px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+.start{
+    scroll-margin: 12px;
+}
+
+#text{
+    width: 500px;
+    height: 30px;
+    size: 30pt;
+    border: 2px solid rgb(207, 207, 207);
+}
+.dashboard{
+    background-color: rgb(197, 228, 255);
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 100px;
+    size: 20pt;
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 50px;
+    border-top-left-radius: 20pc;
+    border-top-right-radius: 20pc;
+    }
+.new{
+    background-color: rgb(2, 6, 10);
+    margin-top: -10px;
+    margin-left: -3px;
+    color: white;
+    width: 1500px;
+    height: 750px;
+    text-align: center;
+    padding: -50pt;
+    border-start-end-radius: 50pc;
+    border-style:dashed;
+    size: 100px;  
+}
+.set{
+    color:floralwhite;
+    margin: 200px;
+    font-size: xx-large;
+    padding-inline-end: 10px;
+    word-spacing: 10px;
+    margin-bottom: 20px;
+}
+#var{
+    margin-top: 15px;
+    width: 30pc;
+    height: 35px;
+    background-color: cornsilk;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: large;
+    border-radius: 10pc;
+    text-align: center;
+
+}
+.offer1{
+    padding: 10px;
+    background-color: lightskyblue;
+    color: aliceblue;
+    border: -10px;
+    border-top-style: dashed;
+    text-align:start;
+    size: 10px;
+}
+.list{
+    font-size: 12pt;
+}
+.boom{
+    font-size: 15pt;
+}
+.intro{
+background-color: blanchedalmond;
+padding: 25pt;
+font-size: large;
+}
+.pre{
+    tab-size: 10px;
+    font-size: 20px;
+    color: black;
+    border: 1px solid white;
+    text-align: center;
+}
+.about{
+    background-color: aliceblue;
+    color: rgb(47, 0, 255);
+    font-size: large;
+}
+.boom{
+    font-size: 1opc;
+}
+.br{
+    font-size: large;
+}
+.boomHomePage{
+    background-color: blue;
+    color: whitesmoke;
+    font-size:smaller;
+    padding: 10px;
+    text-align: center;
+}
+.float{
+    float: left;
+    font-size: 30px;
+    color: black;
+}
